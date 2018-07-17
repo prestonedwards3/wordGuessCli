@@ -1,0 +1,22 @@
+{
+  "name": "wordguesscli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prestonedwards3/wordGuessCli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prestonedwards3/wordGuessCli/issues"
+  },
+  "homepage": "https://github.com/prestonedwards3/wordGuessCli#readme",
+  "dependencies": {
+    "is-letter": "^1.1.1"
+  }
+}
